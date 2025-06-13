@@ -15,7 +15,7 @@ We trained YOLOv5 and YOLOv8 on a custom dataset of welded metal parts labeled w
 - Training conducted with **Ultralytics** frameworks
 - Configured using `data.yaml` with class definitions and paths
 - Training parameters include customizable **epochs**, **batch sizes**, and **image resolutions**
-- Supports **GPU-accelerated training** via PyTorch + CUDA
+- Supports **GPU-accelerated training** via PyTorch
 
 ## 🧪 Inference
 You can test the trained model on new images with confidence score visualization using:
